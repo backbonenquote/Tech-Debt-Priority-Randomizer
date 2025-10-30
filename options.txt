@@ -1,0 +1,2 @@
+# Work Log
+Implement connection reuse for external service calls
